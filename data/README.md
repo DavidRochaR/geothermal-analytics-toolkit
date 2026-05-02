@@ -39,6 +39,6 @@ All data in this directory is **synthetic but geologically realistic**. It was g
 
 ## Public Data Sources (for reference)
 
-- [USGS Geothermal Resource Data](https://www.usgs.gov/programs/volcano-hazards/geothermal-resource-investigations](https://data.usgs.gov/datacatalog/browse/topics/geothermal%20resources))
+- [USGS Geothermal Resource Data](https://data.usgs.gov/datacatalog/browse/topics/geothermal%20resources)
 - [Global Heat Flow Database (IHFC)](https://ihfc-iugg.org/products/global-heat-flow-database)
-- [SGM Mexico — Open Geological Data]([https://www.sgm.gob.mx/](https://www.datos.gob.mx/dataset/?q=servicio+geologico&sort=score+desc%2C+metadata_modified+desc&organization=sgm))
+- [SGM Mexico — Open Geological Data](https://www.datos.gob.mx/dataset/?q=servicio+geologico&sort=score+desc%2C+metadata_modified+desc&organization=sgm)
