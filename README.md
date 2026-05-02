@@ -12,7 +12,7 @@
 
 This toolkit automates common workflows in geothermal exploration and development — tasks that are typically done manually in spreadsheets or proprietary GIS software. It demonstrates how open-source Python libraries can process geoscience data at scale, produce publication-quality visualizations, and support data-driven decision-making in renewable energy projects.
 
-**Built from real-world experience:** This project draws on 10+ years of geothermal project management across Mexico (GETERMEX, CFE, XENERCO), including well-log analysis for 13+ geothermal prospects, automated ETL pipelines for exploration datasets, and KPI dashboards for project controls.
+**Built from real-world experience:** This project draws on 10+ years of geothermal project management, including well-log analysis for geothermal prospects, automated ETL pipelines for exploration datasets, and KPI dashboards for project controls.
 
 ## Problem Statement
 
